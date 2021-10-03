@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1604071113 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\reservationsystem.cpp
+	"ReservationSystem.h"
+	"Flight.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1604168441 f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\reservationsystem.h
+	"Flight.h"
+	"Reservation.h"
+
+1604665058 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\flight.cpp
+	<iostream>
+	"Flight.h"
+
+1604061768 f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\flight.h
+
+1604665172 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\reservation.cpp
+	<iostream>
+	"Reservation.h"
+
+1604061768 f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\reservation.h
+
+1604168653 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw 1\hw1\main.cpp
+	<iostream>
+	"ReservationSystem.h"
+
+1604665058 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\flight.cpp
+	<iostream>
+	"Flight.h"
+
+1604061768 f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\flight.h
+
+1604168653 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\main.cpp
+	<iostream>
+	"ReservationSystem.h"
+
+1604168441 f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\reservationsystem.h
+	"Flight.h"
+	"Reservation.h"
+
+1604061768 f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\reservation.h
+
+1604665172 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\reservation.cpp
+	<iostream>
+	"Reservation.h"
+
+1604071113 source:f:\cs bölüm\cs 2. sýnýf\1. dönem\cs201\hw1\hw1\reservationsystem.cpp
+	"ReservationSystem.h"
+	"Flight.h"
+	<iostream>
+	<string>
+	<sstream>
+
